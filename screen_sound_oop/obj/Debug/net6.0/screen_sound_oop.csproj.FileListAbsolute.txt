@@ -1,0 +1,15 @@
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\bin\Debug\net6.0\screen_sound_oop.exe
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\bin\Debug\net6.0\screen_sound_oop.deps.json
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\bin\Debug\net6.0\screen_sound_oop.runtimeconfig.json
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\bin\Debug\net6.0\screen_sound_oop.dll
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\bin\Debug\net6.0\screen_sound_oop.pdb
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\obj\Debug\net6.0\screen_sound_oop.csproj.AssemblyReference.cache
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\obj\Debug\net6.0\screen_sound_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\obj\Debug\net6.0\screen_sound_oop.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\obj\Debug\net6.0\screen_sound_oop.AssemblyInfo.cs
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\obj\Debug\net6.0\screen_sound_oop.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\obj\Debug\net6.0\screen_sound_oop.dll
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\obj\Debug\net6.0\refint\screen_sound_oop.dll
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\obj\Debug\net6.0\screen_sound_oop.pdb
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\obj\Debug\net6.0\screen_sound_oop.genruntimeconfig.cache
+C:\Users\diego\Documents\workspace_visual_studio\screen_sound_oop\screen_sound_oop\obj\Debug\net6.0\ref\screen_sound_oop.dll
