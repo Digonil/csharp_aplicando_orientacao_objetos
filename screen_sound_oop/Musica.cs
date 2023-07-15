@@ -4,9 +4,11 @@
    public string Artista { get; set; }
    public int Duracao { get; set; }
    public bool Disponivel { get; set; }
+   public Genero Genero { get; set; }
 
-   //Propriedade somente leitura
-   public string DescricaoResumida => $"A música {Nome} pretence á banda {Artista}";
+
+    //Propriedade somente leitura
+    public string DescricaoResumida => $"A música {Nome} pretence á banda {Artista}";
 
 
     public void ExibirFichaTecnica() 
