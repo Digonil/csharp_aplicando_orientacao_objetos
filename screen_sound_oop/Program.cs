@@ -1,19 +1,40 @@
-﻿Album albumQueen = new Album();
-albumQueen.Nome = "A nigth at the opera";
+﻿Banda queen = new Banda("Queen");
 
-Musica musica1 = new Musica();
-musica1.Nome = "Love of my life";
-musica1.Duracao = 213;
+Album albumQueen = new Album("A nigth at the opera");
 
 
-Musica musica2= new Musica();
-musica2.Nome = "Bohemian Rhapsody";
-musica2.Duracao = 354;
+Musica musica1 = new Musica(queen, "Love of my life") 
+{
+    Duracao = 213,
+    Disponivel = true
+};
+
+
+
+Musica musica2 = new Musica(queen, "Bohemian Rhapsody")
+{
+    Duracao = 354,
+    Disponivel = false
+};
+
 
 albumQueen.AdicionarMusica(musica1);
 albumQueen.AdicionarMusica(musica2);
+queen.AdicionarAlbum(albumQueen);
+
+musica1.ExibirFichaTecnica();
+musica2.ExibirFichaTecnica();
+
+
 
 albumQueen.ExibirMusicasDoAlbum();
+queen.ExibirDiscografia();
+
+Usuario usuario01 = new Usuario("Diego");
+usuario01.AdicionarMusicaNaPlaylist(musica1);
+usuario01.AdicionarMusicaNaPlaylist(musica2);
+usuario01.MostrarNomeDoUsuario();
+usuario01.MostrarPlaylist();
 
 
 /* Exemplo de criação de classe adicionando possibilidades de aplicação de regras de negócio.
